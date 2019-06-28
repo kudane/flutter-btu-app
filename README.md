@@ -1,6 +1,6 @@
 # flutter_btu_app
 
-A new Flutter application.
+A demo flutter application for British Thermal Unit Converter.
 
 
 ## Demo Screen
