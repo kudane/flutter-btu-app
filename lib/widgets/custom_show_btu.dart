@@ -28,7 +28,10 @@ class CustomShowBTU extends StatelessWidget {
         alignment: alignment,
         child: Container(
           width: width,
-          child: Text("${Language.btu} $btu"),
+          child: Text(
+            "${Language.btu} $btu",
+            overflow: TextOverflow.ellipsis,
+          ),
         ),
       ),
     );
